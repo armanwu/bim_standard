@@ -27,7 +27,7 @@
 
 ## 3. Project Implementation Plan
 
-### Proposed Software Versions
+### 3.1 Proposed Software Versions
 
 | Company | Software | Version | File Format | Comments |
 |---------|----------|---------|-------------|----------|
@@ -36,7 +36,7 @@
 |         |          |         |             |          |
 |         |          |         |             |          |
 
-### Proposed Exchange Formats for Models and Drawings
+### 3.2 Proposed Exchange Formats for Models and Drawings
 
 | Items          | RVT | DWG | SKP | PDF | IFC | XLSX | Others |
 |----------------|-----|-----|-----|-----|-----|------|--------|
